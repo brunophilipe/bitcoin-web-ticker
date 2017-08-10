@@ -8,6 +8,8 @@ To use, just follow the instructions:
 
 ## How to use
 
+This script requires PHP 5.4+
+
 1. Have a `bitcoind` or `bitcoin-qt` running and configured to accept RPC calls.<br>Read more about this [here](https://en.bitcoin.it/wiki/Running_Bitcoin).
 2. Duplicate the file `config.example.php` into `config.php` and fill out the credentials as explained.
 3. Serve the files from a PHP capable server and open the page.
